@@ -1,1 +1,1 @@
-http://193.160.32.246:3000/api/licenses?script=scan
+http://193.160.32.246:3000/api/check?script=scan&username=
