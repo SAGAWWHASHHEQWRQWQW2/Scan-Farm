@@ -1,1 +1,2 @@
-http://193.160.32.246:3000/api/check?script=scan&username=
+SCAN_URL=http://193.160.32.246:3000/api/check?script=scan&username=
+SCAN_KEY=d8b63182a131212c2332e0ab2325654b70c809013ddfd43a5c9eee5cd7725b68
